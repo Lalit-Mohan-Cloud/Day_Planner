@@ -22,7 +22,6 @@ A simple and interactive day planner web app built with HTML, CSS, and JavaScrip
    - Use the 🌙/☀️ toggle to switch between dark and light modes
 
 ## 📁 File Structure
-.
 ├── index.html       
 ├── style.css         
 ├── script.js         
@@ -30,4 +29,4 @@ A simple and interactive day planner web app built with HTML, CSS, and JavaScrip
  
 
 ## 📸 Screenshots
-![image alt]()
+![image alt](https://github.com/Lalit-Mohan-Cloud/Day_Planner/blob/main/day.png?raw=true)
